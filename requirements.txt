@@ -1,0 +1,2 @@
+Windows OS
+C++ compiler (MinGW, Visual Studio, etc.)
